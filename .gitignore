@@ -1,0 +1,19 @@
+# macOS system files
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# Build output
+dist/
+build/
